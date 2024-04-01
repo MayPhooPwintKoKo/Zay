@@ -1,0 +1,36 @@
+.container {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
+.Logo {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  font-size: 25px;
+}
+.tab-Home {
+  background-color: green;
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+.content {
+  background-color: yellow;
+}
+.login {
+  background-color: purple;
+}
+.tab {
+  margin: 10px;
+}
+.Login {
+  font-style: italic;
+  color: red;
+  font-size: 20px;
+  margin: 60px;
+  text-align: start;
+}
+body {
+  background-color: burlywood;
+}
